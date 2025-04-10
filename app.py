@@ -15,7 +15,7 @@ HTML_PAGE = """
       width="100%"
       height="400"
       frameborder="0"
-      src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDDlMQhxVChW59A2alOB3zkAT_XqVd-f3E&q=Quận+Hoàng+Mai,Hà+Nội"
+      src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD_Z4xzUU_K6q8gtCjfwuNFpefGf9E6jO4&q=Quận+Hoàng+Mai,Hà+Nội"
       allowfullscreen>
     </iframe>
 </body>
